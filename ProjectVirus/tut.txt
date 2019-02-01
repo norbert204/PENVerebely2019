@@ -1,0 +1,12 @@
+Tutorial – magyar
+A játék célja a saját vírusunk fejlesztése és túlélés a végsõ stádiumig. A kezdéskor választhatunk 2 féle játékmód közül:
+	[Insert kép here]-Húsevõ: húscafatokal és más vírusokkal táplálkozik
+	[insert kép here]-Növényevõ: növénydarabokkal táplálkozik csak
+-A túlélést megnehezítik a rosszindulatú vírosok, akik prédaként tekintenek ránk.
+Fejlesztések:
+-Húsevés: engedélyezi a hús elfogyasztását
+	-Növényevés: engedélyezi a növények elfogyazstását
+	-Gyorsabb mozgás: gyorsabb mozgást tesz lehetõvé
+	-Tüske: támadók elleni védelem
+	-Elülsõ tüske: támadók elleni fokozott védelem
+	-Elõretörés: elöretõrés a dupla koppintásnál
